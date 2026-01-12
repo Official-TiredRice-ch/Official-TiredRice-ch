@@ -6,108 +6,114 @@
   />
 </p>
 
-<h2 align="center">Hi 👋 I'm John Louise Larita</h2>
+<h2 align="center">Hi, I'm John Louise Larita</h2>
 
 <p align="center">
-  🎓 BSIT Student at Cebu Technological University <br/>
-  💻 Cross-Platform Developer | Mobile • Desktop • Backend
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=BSIT+Student+%40+Cebu+Technological+University;Cross-Platform+Developer+%7C+Mobile+%E2%80%A2+Desktop+%E2%80%A2+Backend;Building+practical+apps+with+clean+architecture"
+    alt="typing"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/Official-TiredRice-ch">
-    <img src="https://img.shields.io/github/followers/Official-TiredRice-ch?style=social" />
+    <img src="https://img.shields.io/github/followers/Official-TiredRice-ch?style=social" alt="followers" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=Official-TiredRice-ch&style=flat&color=111827">
+    <img src="https://komarev.com/ghpvc/?username=Official-TiredRice-ch&style=flat&color=111827" alt="profile views" />
+  </a>
+  <a href="mailto:larslarita@gmail.com">
+    <img src="https://img.shields.io/badge/Email-larslarita%40gmail.com-DC2626?logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://www.facebook.com/tiredrice.official">
-    <img src="https://img.shields.io/badge/Facebook-Visit-blue?logo=facebook" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+    <img src="https://img.shields.io/badge/Facebook-tiredrice.official-1877F2?logo=facebook&logoColor=white" alt="facebook" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
-I build **practical software solutions** focused on real-world problems, offline-first systems, and clean, maintainable code.  
-I enjoy working across **mobile, desktop, and backend systems**, and I’m always learning new technologies.
+## About Me
+I build **practical software solutions** focused on real-world problems, offline-first systems, and clean, maintainable code.
 
-- 🔭 Currently building cross-platform apps  
-- 🌱 Learning backend architecture & system design  
-- ✨ Goal: create useful software, not just demos  
-
----
-
-## 🛠 Tech Stack
-**Frontend / Mobile**
-- React Native (Expo)
-- React
-
-**Backend**
-- Node.js
-- Express
-- .NET (C#)
-
-**Database**
-- SQLite
-- Firebase
-- MySQL
-- supabase
-- xampp
-- express
-
-**Tools**
-- Git & GitHub
-- VS Code
-- kiro
-- windsurf
-- Unity
-- Blender
-- Arduino (IoT basics)
+- **Focus:** cross-platform apps (mobile + desktop) and backend APIs
+- **Currently:** improving React Native / Expo + learning backend architecture & system design
+- **Goal:** ship useful software, not just demos
 
 ---
 
-## 🚀 Featured Projects
-
-
-
-### 🩸 BLOODLINK
-Cross-platform blood requisition and donor recall application.  
-**Tech:** React Native, Firebase  
-🔗 https://github.com/Official-TiredRice-ch/BLOODLINK
+## Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000000" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
-### 🚗 Parking Management System
-Desktop application for vehicle parking, ticketing, and payments.  
-**Tech:** C#, MySQL  
-🔗 https://github.com/Official-TiredRice-ch/Parking-System
+## Featured Projects
+<p align="center">
+  <a href="https://github.com/Official-TiredRice-ch/BLOODLINK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Official-TiredRice-ch&repo=BLOODLINK&theme=tokyonight&hide_border=true" alt="BLOODLINK" />
+  </a>
+  <a href="https://github.com/Official-TiredRice-ch/Parking-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Official-TiredRice-ch&repo=Parking-System&theme=tokyonight&hide_border=true" alt="Parking System" />
+  </a>
+</p>
 
 ---
-## 📊 GitHub Activity
+
+## GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Official-TiredRice-ch&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Official-TiredRice-ch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="165"
+    alt="stats"
   />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Official-TiredRice-ch&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="streak"
+  />
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official-TiredRice-ch&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
+    alt="top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Official-TiredRice-ch&theme=tokyo-night&hide_border=true"
+    alt="activity graph"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Official-TiredRice-ch&theme=tokyonight&no-frame=true&row=1&column=7"
+    alt="trophies"
   />
 </p>
 
 ---
 
-## 🔭 Currently
-- Improving React Native & Expo apps
-- Exploring backend APIs with Express
-- Practicing clean architecture & database design
-
----
-
-## 📫 Contact
-- 📧 Email: larslarita@gmail.com  
-- 🌐 Facebook: https://www.facebook.com/tiredrice.official  
-- 💻 GitHub: https://github.com/Official-TiredRice-ch  
+## Contact
+- **Email:** larslarita@gmail.com
+- **Facebook:** https://www.facebook.com/tiredrice.official
+- **GitHub:** https://github.com/Official-TiredRice-ch
 
 ---
 
