@@ -84,17 +84,25 @@ Desktop application for vehicle parking, ticketing, and payments.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Official-TiredRice-ch&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" 
-    height="160"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Official-TiredRice-ch&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official-TiredRice-ch&layout=compact&theme=dark&hide_border=true" 
-    height="160"
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Official-TiredRice-ch&theme=tokyonight&hide_border=true"
+    height="165"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official-TiredRice-ch&layout=compact&theme=tokyonight&hide_border=true"
+    height="140"
+  />
+</p>
+
 
 ---
 
