@@ -72,6 +72,19 @@ I build **practical software solutions** focused on real-world problems, offline
 
 ---
 
+## Gaming
+<p align="center">
+  <img src="https://img.shields.io/badge/Genshin_Impact-111827?style=for-the-badge" alt="Genshin Impact" />
+  <img src="https://img.shields.io/badge/Wuthering_Waves-1F2937?style=for-the-badge" alt="Wuthering Waves" />
+</p>
+
+| Game | Server | UID | Mains / Favorites |
+| --- | --- | --- | --- |
+| Genshin Impact | EUROPE | `YOUR_UID_HERE` | `Your mains here` |
+| Wuthering Waves | SEA  | `YOUR_UID_HERE` | `Your mains here` |
+
+---
+
 ## GitHub Stats
 <p align="center">
   <img
