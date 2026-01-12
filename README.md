@@ -106,7 +106,7 @@ Desktop application for vehicle parking, ticketing, and payments.
 ---
 
 ## 📫 Contact
-- 📧 Email: your-email@example.com  
+- 📧 Email: larslarita@example.com  
 - 🌐 Facebook: https://www.facebook.com/tiredrice.official  
 - 💻 GitHub: https://github.com/Official-TiredRice-ch  
 
