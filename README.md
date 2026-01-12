@@ -81,7 +81,20 @@ I build **practical software solutions** focused on real-world problems, offline
 | Game | Server | UID | Mains / Favorites |
 | --- | --- | --- | --- |
 | Genshin Impact | EUROPE | `YOUR_UID_HERE` | `Your mains here` |
-| Wuthering Waves | SEA  | `YOUR_UID_HERE` | `Your mains here` |
+| Wuthering Waves | SEA | `YOUR_UID_HERE` | `Your mains here` |
+
+---
+
+## Project SEKAI (Hatsune Miku)
+<p align="center">
+  <img src="https://placehold.co/900x260/111827/FFFFFF?text=Project+SEKAI+%E2%80%A2+Hatsune+Miku" alt="Project SEKAI Hatsune Miku" />
+</p>
+
+<p align="center">
+  <img src="https://placehold.co/300x200/1F2937/FFFFFF?text=Hatsune+Miku+Image+1" alt="Hatsune Miku 1" />
+  <img src="https://placehold.co/300x200/111827/FFFFFF?text=Hatsune+Miku+Image+2" alt="Hatsune Miku 2" />
+  <img src="https://placehold.co/300x200/1F2937/FFFFFF?text=Hatsune+Miku+Image+3" alt="Hatsune Miku 3" />
+</p>
 
 ---
 
