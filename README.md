@@ -39,6 +39,105 @@ Note: the "Top Languages" card above automatically shows your languages breakdow
 ---
 
 ## Top language (highlight)
+
+/**
+ * Simple script to:
+ *  - list repos for the owner
+ *  - fetch languages for each repo
+ *  - sum bytes per language and pick the top language
+ *  - replace the placeholder in README.md between <!--TOP_LANGUAGE--> markers
+ *
+ * Requires: npm install @octokit/rest
+ */
+
+const fs = require('fs');
+const path = require('path');
+const { Octokit } = require('@octokit/rest');
+
+const token = process.env.GITHUB_TOKEN;
+if (!token) {
+  console.error('GITHUB_TOKEN is required in environment');
+  process.exit(1);
+}
+
+const owner = process.env.GITHUB_OWNER;
+if (!owner) {
+  console.error('GITHUB_OWNER is required in environment');
+  process.exit(1);
+}
+
+const octokit = new Octokit({ auth: token });
+
+async function main() {
+  try {
+    // list repos for the owner (public + private depending on token)
+    const repos = [];
+    for await (const response of octokit.paginate.iterator(octokit.repos.listForUser, { username: owner, per_page: 100 })) {
+      repos.push(...response.data);
+    }
+
+    // If owner is org, use repos.listForOrg instead. Try user first; fallback to org.
+    if (repos.length === 0) {
+      for await (const resp of octokit.paginate.iterator(octokit.repos.listForOrg, { org: owner, per_page: 100 })) {
+        repos.push(...resp.data);
+      }
+    }
+
+    const totals = Object.create(null);
+
+    // fetch languages for each repo
+    for (const r of repos) {
+      try {
+        const { data: langs } = await octokit.repos.listLanguages({
+          owner,
+          repo: r.name,
+        });
+        for (const [lang, bytes] of Object.entries(langs)) {
+          totals[lang] = (totals[lang] || 0) + bytes;
+        }
+      } catch (err) {
+        console.warn(`Skipping languages for repo ${r.name}: ${err.message}`);
+      }
+    }
+
+    if (Object.keys(totals).length === 0) {
+      console.log('No language data found.');
+      return;
+    }
+
+    // determine top language
+    const topLanguage = Object.entries(totals).sort((a, b) => b[1] - a[1])[0][0];
+    console.log('Top language computed:', topLanguage);
+
+    // update README.md placeholder
+    const readmePath = path.join(process.cwd(), 'README.md');
+    let readme = fs.readFileSync(readmePath, 'utf8');
+
+    const startMarker = '<!--TOP_LANGUAGE-->';
+    const regex = new RegExp(`${startMarker}[\\s\\S]*?${startMarker}`, 'm');
+
+    const replacement = `${startMarker}${topLanguage}${startMarker}`;
+
+    if (regex.test(readme)) {
+      readme = readme.replace(regex, replacement);
+    } else if (readme.includes('Top language:')) {
+      // fallback: replace after "Top language:" line
+      readme = readme.replace(/(Top language:).*/i, `$1 ${topLanguage}`);
+    } else {
+      // append a small note
+      readme += `\n\n## Top language (auto)\n:star2: Top language: ${topLanguage}\n`;
+    }
+
+    fs.writeFileSync(readmePath, readme, 'utf8');
+    console.log('README.md updated with top language.');
+  } catch (err) {
+    console.error('Error:', err);
+    process.exit(1);
+  }
+}
+
+main();
+
 :star2: Top language: **(auto-detected — see Top Languages card above)**
 
 If you want this to show as a single badge (e.g., "Top language: C#"), I can:
