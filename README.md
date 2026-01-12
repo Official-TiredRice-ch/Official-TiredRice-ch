@@ -93,7 +93,8 @@ I build **practical software solutions** focused on real-world problems, offline
 <p align="center">
   <img src="https://placehold.co/300x200/1F2937/FFFFFF?text=Hatsune+Miku+Image+1" alt="Hatsune Miku 1" />
   <img src="https://placehold.co/300x200/111827/FFFFFF?text=Hatsune+Miku+Image+2" alt="Hatsune Miku 2" />
-  <img src="https://placehold.co/300x200/1F2937/FFFFFF?text=Hatsune+Miku+Image+3" alt="Hatsune Miku 3" />
+  <img src="https://images.steamusercontent.com/ugc/1844784011262762485/DC00E395355229878ECA39EE5A951162EF6BB756/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+   alt="Hatsune Miku 3" />
 </p>
 
 ---
