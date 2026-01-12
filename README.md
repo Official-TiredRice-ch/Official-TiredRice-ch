@@ -83,7 +83,6 @@ Desktop application for vehicle parking, ticketing, and payments.
 🔗 https://github.com/Official-TiredRice-ch/Parking-System
 
 ---
-
 ## 📊 GitHub Activity
 <p align="center">
   <img
@@ -91,18 +90,10 @@ Desktop application for vehicle parking, ticketing, and payments.
     height="165"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Official-TiredRice-ch&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official-TiredRice-ch&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official-TiredRice-ch&layout=compact&theme=tokyonight&hide_border=true"
-    height="140"
-  />
-</p>
-
 
 ---
 
