@@ -38,7 +38,9 @@ Note: the "Top Languages" card above automatically shows your languages breakdow
 
 ---
 
-## Top language (highlight)
+## ⭐ Top Language
+<!--TOP_LANGUAGE-->
+
 
 :star2: Top language: **(auto-detected — see Top Languages card above)**
 
