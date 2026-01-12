@@ -1,56 +1,110 @@
-# Hi — I'm Official-TiredRice-ch 👋
-
-Welcome — this is my profile README! I upgraded the design with a dark theme, prominent stats, language highlights, project callouts, and places to show real code snippets.
-
----
-
-<!-- HEADER / BADGES -->
+<!-- HEADER -->
 <p align="center">
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=120&section=header&text=Official-TiredRice-ch&fontSize=40&fontColor=ffffff" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=160&section=header&text=Official-TiredRice-ch&fontSize=42&fontColor=ffffff&animation=fadeIn" 
+    alt="header"
+  />
+</p>
+
+<h2 align="center">Hi 👋 I'm John Louise Larita</h2>
+
+<p align="center">
+  🎓 BSIT Student at Cebu Technological University <br/>
+  💻 Cross-Platform Developer | Mobile • Desktop • Backend
 </p>
 
 <p align="center">
-  <a href="https://github.com/Official-TiredRice-ch"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Official-TiredRice-ch?style=social" /></a>
-  <a href="https://www.facebook.com/tiredrice.official"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Visit-blue?logo=facebook" /></a>
-  <a href="#"><img alt="Resume" src="https://img.shields.io/badge/Resume-Add_link_github-dark?style=flat&logo=file" /></a>
-  <a href="mailto:replace-this-with-your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-replace--this--with--your--email-red?logo=gmail" /></a>
+  <a href="https://github.com/Official-TiredRice-ch">
+    <img src="https://img.shields.io/github/followers/Official-TiredRice-ch?style=social" />
+  </a>
+  <a href="https://www.facebook.com/tiredrice.official">
+    <img src="https://img.shields.io/badge/Facebook-Visit-blue?logo=facebook" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
 </p>
 
 ---
 
-## About me
-I build tools, small services, and automation that make development faster and less painful. I work across C#, JavaScript/TypeScript, Python, Go and more — and I'm always learning something new.
+## 🧠 About Me
+I build **practical software solutions** focused on real-world problems, offline-first systems, and clean, maintainable code.  
+I enjoy working across **mobile, desktop, and backend systems**, and I’m always learning new technologies.
 
-- 🔭 Currently: building automation & developer tools  
-- 🌱 Learning: Rust, systems tooling  
-- ✨ Favorite: solving real problems with pragmatic code
+- 🔭 Currently building cross-platform apps  
+- 🌱 Learning backend architecture & system design  
+- ✨ Goal: create useful software, not just demos  
 
 ---
-# Hi 👋 I'm John Louise Larita
-
-🎓 BSIT Student at Cebu Technological University  
-💻 Cross-Platform Developer
-
-I build practical software solutions focused on real-world problems.
 
 ## 🛠 Tech Stack
+**Frontend / Mobile**
 - React Native (Expo)
-- Node.js / Express
-- SQLite / Firebase
-- C# / .NET
+- React
+
+**Backend**
+- Node.js
+- Express
+- .NET (C#)
+
+**Database**
+- SQLite
+- Firebase
+- MySQL
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Arduino (IoT basics)
+
+---
 
 ## 🚀 Featured Projects
-### BLOODLINK
-Cross-platform blood requisition & donor recall app  
+
+### 🩸 BLOODLINK
+Cross-platform blood requisition and donor recall application.  
+**Tech:** React Native, Firebase  
 🔗 https://github.com/Official-TiredRice-ch/BLOODLINK
 
-### Parking Management System
-Desktop parking app  
+---
+
+### 🚗 Parking Management System
+Desktop application for vehicle parking, ticketing, and payments.  
+**Tech:** C#, MySQL  
 🔗 https://github.com/Official-TiredRice-ch/Parking-System
 
+---
+
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Official-TiredRice-ch&show_icons=true&theme=dark)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Official-TiredRice-ch&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official-TiredRice-ch&layout=compact&theme=dark&hide_border=true" 
+    height="160"
+  />
+</p>
+
+---
+
+## 🔭 Currently
+- Improving React Native & Expo apps
+- Exploring backend APIs with Express
+- Practicing clean architecture & database design
+
+---
 
 ## 📫 Contact
-- Email: your@email.com
+- 📧 Email: your-email@example.com  
+- 🌐 Facebook: https://www.facebook.com/tiredrice.official  
+- 💻 GitHub: https://github.com/Official-TiredRice-ch  
 
+---
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=120&section=footer" 
+  />
+</p>
