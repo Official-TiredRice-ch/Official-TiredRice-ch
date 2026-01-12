@@ -87,7 +87,7 @@ I build **practical software solutions** focused on real-world problems, offline
 
 ## Project SEKAI (Hatsune Miku)
 <p align="center">
-  <img src="https://placehold.co/900x260/111827/FFFFFF?text=Project+SEKAI+%E2%80%A2+Hatsune+Miku" alt="Project SEKAI Hatsune Miku" />
+  <img src="https://preview.redd.it/the-two-honor-students-mafuyu-asahina-and-light-yagami-as-v0-hkx02wen99ze1.jpg?width=1000&format=pjpg&auto=webp&s=1d4e2c66a5d9fb88c23939b305da94b54fd9622d" alt="Project SEKAI Hatsune Miku" />
 </p>
 
 <p align="center">
