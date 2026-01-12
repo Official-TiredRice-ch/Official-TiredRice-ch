@@ -51,15 +51,24 @@ I enjoy working across **mobile, desktop, and backend systems**, and I’m alway
 - SQLite
 - Firebase
 - MySQL
+- supabase
+- xampp
+- express
 
 **Tools**
 - Git & GitHub
 - VS Code
+- kiro
+- windsurf
+- Unity
+- Blender
 - Arduino (IoT basics)
 
 ---
 
 ## 🚀 Featured Projects
+
+
 
 ### 🩸 BLOODLINK
 Cross-platform blood requisition and donor recall application.  
