@@ -91,8 +91,10 @@ I build **practical software solutions** focused on real-world problems, offline
 </p>
 
 <p align="center">
-  <img src="https://www.reddit.com/r/ProjectSekai/comments/1cyu48k/character_discussion_thread_day_18_asahina_mafuyu/#lightbox" alt="Hatsune Miku 1" />
-  <img src="https://preview.redd.it/4cbyc8rmg35g1.gif?width=800&format=mp4&s=e7d7becca227f6dbc33b2ff84aa201b10571fb7e" alt="Hatsune Miku 2" />
+  <img src="https://preview.redd.it/character-discussion-thread-day-18-asahina-mafuyu-share-v0-b6pd8b3tr62d1.jpeg?width=1080&crop=smart&auto=webp&s=ed034ea771e99a81a79e0162974a9722f20957ff" 
+  alt="Hatsune Miku 1" />
+  <img src="https://preview.redd.it/4cbyc8rmg35g1.gif?width=800&format=mp4&s=e7d7becca227f6dbc33b2ff84aa201b10571fb7e" 
+  alt="Hatsune Miku 2" />
   <img src="https://images.steamusercontent.com/ugc/1844784011262762485/DC00E395355229878ECA39EE5A951162EF6BB756/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
    alt="Hatsune Miku 3" />
 </p>
